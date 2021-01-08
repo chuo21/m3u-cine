@@ -1,0 +1,107 @@
+#EXTM3U
+
+
+#EXTINF:-1,LA_SD:TV VEGA
+https://streaming.tvt-datos.es:8080/hls/tvb/live.m3u8
+#EXTINF:-1,LA_SD:DW
+https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
+#EXTINF:-1,LA_SD:TYR
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1,LA_SD:CANAL 56
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1,LA_SD:TELEVISA
+https://youtu.be/nLjhuD2Qptk
+#EXTINF:-1,LA_SD:VICION TV
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LA_SD:AMERICA TV
+https://www.interalmeria.tv/directo/live.m3u8
+#EXTINF:-1,LA_SD:MUNDO TV
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1,LA_SD:TV PERU
+http://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,LA_SD:ANTARES TV
+https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/chunklist_w633145712.m3u8
+#EXTINF:-1,LA_SD:BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w154563451.m3u8
+#EXTINF:-1,LA_SD:CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/chunklist_w973585923.m3u8
+#EXTINF:-1,LA_SD:CANAL TV 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1710376076_b1000000_slesp.m3u8
+#EXTINF:-1,LA_SD:CANAL 6 TV
+https://youtu.be/hxoRLRgmFlk
+#EXTINF:-1,LA_SD:CHANNEL TV
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbZjM5L5fY2FmmnQ7N7YtPM)/dm/3/x7v76vf/s/live-1.m3u8
+#EXTINF:-1,LA_SD:TELEVISA TV
+https://youtu.be/qM8RYN1MAh8
+#EXTINF:-1,LA_SD:MILENIO TV
+https://youtu.be/Wi0pEULGi5I
+#EXTINF:-1,LA_SD:CANAL 15 TV
+https://5e50264bd6766.streamlock.net/fresnillo/smil:fresnillo.smil/chunklist_w541796028_b478000_sleng.m3u8
+#EXTINF:-1,LA_SD:CAPITAL TV 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,LA_SD:SAN LUIS TV 
+https://youtu.be/GFgSBOyhYGU
+#EXTINF:-1,LA_SD:TELE JUAREZ TV
+https://youtu.be/nyO7O3y5NRU
+#EXTINF:-1,LA_SD:TV YUCATAN
+https://youtu.be/5KuLV6HJZDU
+#EXTINF:-1,LA_SD:CANAL TV 66
+https://youtu.be/HFCEd2FL07U
+#EXTINF:-1,LA_SD:EXCELSIOR TV
+https://youtu.be/kxZHi5qmPL0
+#EXTINF:-1,LA_SD:TELEVISA LAGUNA TV
+https://youtu.be/nYGFW1PhMDw
+#EXTINF:-1,LA_SD:PUEBLA TV
+http://189.240.210.28:1935/envivo/puecom/chunklist_w583054559.m3u8
+#EXTINF:-1,LA_SD:GENESIS TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_b496000_slspa.m3u8
+#EXTINF:-1,LA_SD:TVP TV 
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1566918500_b978000_sleng.m3u8
+#EXTINF:-1,LA_SD:MEXICO TRAVEL TV
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbZjM5L5fY2FmmnQ7N7YtPM)/dm/3/x7v76vf/s/live-2.m3u8
+#EXTINF:-1,LA_SD:TELEMAR TV
+https://59d39900ebfb8.streamlock.net/8410/8410/chunklist_w1864749038.m3u8
+#EXTINF:-1,LA_SD:VPI TV
+https://youtu.be/lBPIkwyF_aw
+#EXTINF:-1,LA_SD:VENEZOLANA TV
+https://livestream.streamingconnect.com/hls/vtvweb.m3u8
+#EXTINF:-1,LA_SD:GLOBOVISION TV
+https://youtu.be/n07PG0zcZFE
+#EXTINF:-1,LA_SD:PROMAR TV
+http://vcp1.myplaytv.com/promar/promar/chunklist_w305973710.m3u8
+#EXTINF:-1,LA_SD:TICAVISION TV
+http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1598690492.m3u8
+#EXTINF:-1,LA_SD:CANAL 4 TV
+https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj4ToH5wGAThF6kZTziHuQjY)/dm/3/x7rwv8c/s/live-1.m3u8
+#EXTINF:-1,LA_SD:TELEUNION TV
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1111638399.m3u8
+#EXTINF:-1,LA_SD:ARAICA TV
+https://youtu.be/zfv6JTZMwyo
+#EXTINF:-1,LA_SD:CANA 8 TV
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:-1,LA_SD:TELETICA TV
+https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
+#EXTINF:-1,LA_SD:CITY TV
+https://youtu.be/gHEfOaMHBPI?list=UUv5Oy_TJFvGKXjeNzzJE_PQ
+#EXTINF:-1,LA_SD:CANAL TRO TV
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b900000.m3u8
+#EXTINF:-1,LA_SD:CALI TV
+http://vbox.cehis.net/live-calitv/calitv1/chunklist_w654632603.m3u8
+#EXTINF:-1,LA_SD:CANAL CNCTV
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1911427531.m3u8
+#EXTINF:-1,LA_SD:CANA MUNDO
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w1560294869.m3u8
+#EXTINF:-1,LA_SD:Globovision tv
+https://youtu.be/n07PG0zcZFE
+#EXTINF:-1,LA_SD:promar tv
+http://vcp1.myplaytv.com/promar/promar/chunklist_w1433072722.m3u8
+#EXTINF:-1,LA_SD:vpi tv
+https://youtu.be/8l0YYRh98n0
+#EXTINF:-1,LA_SD:UMAG TV
+https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/chunklist_w2076538117_b700000_slen.m3u8
+#EXTINF:-1,LA_SD:HIPASA TV
+https://live1.presstv.com/live/hispan_240p/index.m3u8
+#EXTINF:-1,LA_SD:CANAL 7 TV
+https://59c8647978660.streamlock.net/8128/8128/chunklist_w2066154504.m3u8
+
+
